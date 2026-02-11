@@ -1,0 +1,8 @@
+
+{
+  "name": "Die Welt der Streichinstrumente",
+  "description": "Eine interaktive Lern-App für Schüler:innen der 3. Klasse AHS über Aufbau, Klang und Vielfalt der Streichinstrumentenfamilie.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
